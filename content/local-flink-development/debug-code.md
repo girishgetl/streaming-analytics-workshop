@@ -10,6 +10,8 @@ In addition to simply executing the Flink application, you can also set breakpoi
 
 1. Set a breakpoint by clicking left of a code line, eg, Line 35
 
+1. Ensure you have stopped the flink program execution started in previous section. Press the red square button or press Ctrl + F2 (On Mac : Ctrl + Fn + F2)
+
 1. Start the debugging process by clicking the green bug next in the upper right corner of the IDE
 
 	![](/images/intellij-6-debug.png)
